@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DATA Center\\Desktop\\eCommerce\\eCommerce\\eCommerce.csproj": {}
+    "C:\\Users\\Bleona\\Desktop\\E-git\\eCommerce\\eCommerce\\eCommerce.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DATA Center\\Desktop\\eCommerce\\eCommerce\\eCommerce.csproj": {
+    "C:\\Users\\Bleona\\Desktop\\E-git\\eCommerce\\eCommerce\\eCommerce.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DATA Center\\Desktop\\eCommerce\\eCommerce\\eCommerce.csproj",
+        "projectUniqueName": "C:\\Users\\Bleona\\Desktop\\E-git\\eCommerce\\eCommerce\\eCommerce.csproj",
         "projectName": "eCommerce",
-        "projectPath": "C:\\Users\\DATA Center\\Desktop\\eCommerce\\eCommerce\\eCommerce.csproj",
-        "packagesPath": "C:\\Users\\DATA Center\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DATA Center\\Desktop\\eCommerce\\eCommerce\\obj\\",
+        "projectPath": "C:\\Users\\Bleona\\Desktop\\E-git\\eCommerce\\eCommerce\\eCommerce.csproj",
+        "packagesPath": "C:\\Users\\Bleona\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bleona\\Desktop\\E-git\\eCommerce\\eCommerce\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\DATA Center\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Bleona\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -73,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

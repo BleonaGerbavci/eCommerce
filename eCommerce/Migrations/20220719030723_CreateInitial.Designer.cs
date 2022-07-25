@@ -11,7 +11,7 @@ using eCommerce.Data;
 namespace eCommerce.Migrations
 {
     [DbContext(typeof(StoreContext))]
-    [Migration("20220715080515_CreateInitial")]
+    [Migration("20220719030723_CreateInitial")]
     partial class CreateInitial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
