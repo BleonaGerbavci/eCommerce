@@ -1,5 +1,6 @@
 global using eCommerce.Data;
 global using Microsoft.EntityFrameworkCore;
+using eCommerce.Middleware;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -19,6 +20,7 @@ builder.Services.AddCors();
 
 var app = builder.Build();
 
+app.UseMiddleware<ExceptionMiddleware>();
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {

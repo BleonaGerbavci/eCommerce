@@ -1,4 +1,4 @@
-import { Grid, List } from "@mui/material";
+import { Grid } from "@mui/material";
 import { Product } from "../../app/models/product";
 import React from "react";
 import ProductCard from "./ProductCard";
